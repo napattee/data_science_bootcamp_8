@@ -15,3 +15,5 @@ I learn a lot of stuff related to data science skills. This bootcamp
 - Python programming
 - Essential Python for Data Analyst
 - Dashboard
+
+You can find me on LinkedIn. https://www.linkedin.com/in/napat-teekasuk-23437a294/
